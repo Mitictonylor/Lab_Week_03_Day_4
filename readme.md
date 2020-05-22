@@ -4,7 +4,7 @@ Lab practice for ruby and PostgreSQL CRUD
 # IMDb
 
 
-              **Brief**
+**Brief**
 
 Your IMDb should have:
 
