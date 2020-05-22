@@ -2,7 +2,7 @@ Codeclan week 3 day 4
 Lab practice for ruby and PostgreSQL CRUD
 
 To access the database:
-First, create a database called ‘marvel’
+First, create a database called ‘imdb’
 
 terminal
 createdb imdb
